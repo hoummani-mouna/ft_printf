@@ -2,7 +2,9 @@
 
 ## Description
 The **ft_printf** project consists of recoding the famous `printf` function from the standard C library (`libc`).
+
 The function `ft_printf()` mimics the behavior of the original `printf()` function without implementing buffer management.
+
 It is a great opportunity to learn about handling a variable number of arguments (variadic functions in C).
 
 ## Instructions
